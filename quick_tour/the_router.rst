@@ -54,7 +54,7 @@ specific path prefix and load that document. In the case of the SimpleCmsBundle,
 all routes are prefixed with ``/cms/simple``.
 
 You see that a route like ``/contact/team``, which consist of 2 "path units",
-has 2 documents in the PHPCR tree: ``contact`` and ``team``.
+has 2 documents in the PHPCR tree: ``team`` and ``docs``.
 
 Chaining multiple Routers
 -------------------------
